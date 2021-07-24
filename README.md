@@ -4,3 +4,5 @@ Creted as a Python OOP exercise.
 
 All chess rules are implemented. The game is played in a shell window, using letters and numbers as commands.
 The board and chess pices are visualized using a two-dimensional array of characters. 
+
+![image](https://github.com/dariomihelcic/MiS_Chess/blob/main/docs/schess.PNG)
